@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-# onlinedjing
+
+# poc-webapi-dj
+Poc to use webapi as DJ software
 
 > Online DJ
 
@@ -20,7 +21,4 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-=======
-# poc-webapi-dj
-Poc to use webapi as DJ software
->>>>>>> e3c00971c43558478c285acd502138d0de1ed112
+
